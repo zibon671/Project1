@@ -1,0 +1,42 @@
+.container {
+  /* padding-left: 30px;
+  padding-right: 30px; */
+  border: 1px solid black;
+}
+li {
+  list-style-type: none;
+  display: inline-block;
+  font-family: arial;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+.lp {
+  padding-left: 8px;
+}
+.lp1 {
+  padding-left: 70%;
+}
+.nav {
+  padding: 15px;
+  background-color: #343a40;
+}
+.icon {
+  color: white;
+}
+.lp2 {
+  padding-left: 8px;
+}
+.foot1 {
+  text-align: center;
+  padding: 15px;
+  background-color: #343a40;
+  margin-bottom: 0px;
+}
+.font {
+  font-family: arial;
+}
+.d {
+  display: inline;
+}
